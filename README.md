@@ -7,7 +7,7 @@
 A music player for Android and PC with synced lyrics, translation and online search.
 
 **[Download for Android](../../releases/latest)** · Android 8.0+<br>
-**[Download for PC](../../releases?q=desktop-v)** · Linux (AppImage) and Windows
+**[Download for PC](../../releases/tag/desktop-v)** · Linux (AppImage) and Windows
 
 <img src="screenshots/home.jpg" width="200" alt="Home">&nbsp;
 <img src="screenshots/player.jpg" width="200" alt="Now playing">&nbsp;
