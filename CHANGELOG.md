@@ -1,5 +1,15 @@
 # Changelog
 
+## Desktop 0.2.1
+
+- System tray icon: click to open; menu with play/pause, next, previous, mini player and quit.
+- Minimize (main window or mini player) hides to the tray.
+- Only one copy of the app runs: opening it again brings back the open one.
+- Closing the app stops the music right away.
+- Songs start faster, with a loading animation while an online song starts.
+- Synced lyrics follow the song exactly.
+- Mini player keeps its compact size.
+
 ## Desktop 0.2.0
 
 First release of Aurore Player for PC: Linux AppImage and portable Windows zip.
