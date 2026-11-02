@@ -4,9 +4,10 @@
 
 # Aurore Player
 
-A music player for Android with synced lyrics, translation and online search.
+A music player for Android and PC with synced lyrics, translation and online search.
 
-**[Download the latest version](../../releases/latest)** · Android 8.0+
+**[Download for Android](../../releases/latest)** · Android 8.0+<br>
+**[Download for PC](../../releases?q=desktop-v)** · Linux (AppImage) and Windows
 
 <img src="screenshots/home.jpg" width="200" alt="Home">&nbsp;
 <img src="screenshots/player.jpg" width="200" alt="Now playing">&nbsp;
@@ -27,7 +28,22 @@ A music player for Android with synced lyrics, translation and online search.
 - Search your library, or search and download music online
 - English, Portuguese, Spanish, French, Italian and Russian
 
-## Install
+## Aurore Player for PC
+
+<div align="center">
+<img src="screenshots/desktop-online.jpg" width="720" alt="Aurore Player for PC">
+</div>
+
+The same player on Linux and Windows, plus:
+
+- Search YouTube Music by song, artist or album, and import YouTube Music playlists
+- Spotify search is not working yet
+- Save a playlist to a folder on your computer
+- Mini player when you minimize or close the window
+- Twitch song requests: chat `!sr`, channel points, mod commands and an OBS overlay
+- Themes, and updates from inside the app on Linux
+
+## Install on Android
 
 1. Open [Releases](../../releases/latest) and download `aurore-player-X.Y.Z-arm64-v8a.apk`
    (works on most phones; use `universal` if you are not sure).
@@ -35,9 +51,20 @@ A music player for Android with synced lyrics, translation and online search.
 
 To update, install the new version over the old one. Your music and playlists stay.
 
+## Install on PC
+
+Open the [PC releases](../../releases?q=desktop-v) and download:
+
+- **Linux:** `aurore-player-desktop-X.Y.Z-linux-x86_64.AppImage`. Make it executable
+  (`chmod +x aurore-player-desktop-*.AppImage`, or Properties → Allow executing) and open it.
+- **Windows:** `aurore-player-desktop-X.Y.Z-windows-x64-portable.zip`. Extract it and open
+  `aurore-player.exe` inside the `Aurore Player` folder. No installation needed (Windows 10 or 11).
+
+On Linux the app checks for updates on start and asks before installing. On Windows, download the new zip.
+
 ## Problems or ideas
 
-Open an [issue](../../issues/new/choose) with your phone model, Android version and app version.
+Open an [issue](../../issues/new/choose) with your phone model and Android version (or your PC system) and the app version.
 
 ---
 

@@ -1,5 +1,21 @@
 # Changelog
 
+## Desktop 0.2.0
+
+First release of Aurore Player for PC: Linux AppImage and portable Windows zip.
+
+- Home, library (songs, playlists, artists, albums), artist and album pages.
+- Now playing with blurred artwork, synced lyrics with translation, 15 visualizer styles.
+- Up next queue, sleep timer, crossfade, resume the last song where you left off.
+- Floating mini player (from the minimize/close buttons or the player).
+- Themes: dynamic colors from the artwork, 8 fixed themes, custom color, AMOLED black.
+- Online: YouTube Music songs, artists and albums. Spotify search is not working yet.
+- Import YouTube Music playlists; playlists can mix local and online songs; stacked playlist covers.
+- "Save locally" downloads a whole playlist or album into a folder with its name.
+- Twitch song requests (chat !sr and channel points) with moderation, and an OBS overlay.
+- Automatic updates from GitHub Releases (Linux AppImage).
+- ffmpeg (LGPL build) and yt-dlp are bundled: nothing else to install.
+
 ## 0.2.0
 
 ### New
