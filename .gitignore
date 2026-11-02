@@ -1,4 +1,5 @@
-# APKs live in releases/ locally but are uploaded as GitHub Release assets, not committed:
-# git rejects files over 100 MB (the universal APK is ~230 MB) and they would bloat the history.
-releases/*.apk
+# Release files are uploaded as GitHub Release assets, never committed
+# (git rejects files over 100 MB; the universal APK is ~230 MB).
+releases/*
+!releases/.gitkeep
 *.aab

@@ -1,5 +1,0 @@
-ff316242a52d98b54dfcb27e3adf656e3b095fbd575a833fb9f3344d8eb368d7  aurore-player-0.2.0-arm64-v8a.apk
-677e2fa9e7ccdffc946fbd7b0bff2649b4ac51c7a1f6e59b41d4f99e7b21f9b2  aurore-player-0.2.0-armeabi-v7a.apk
-d9c67261f77de2001da646164a3d601448e5bf63c15dbceed04c988fb50e9161  aurore-player-0.2.0-universal.apk
-d699c390daf9ee5e9b65396418c5b6b2bdb42dab967346d39dcffd5937b9fcd8  aurore-player-0.2.0-x86_64.apk
-db305caac245d4914db79817448d3709c676deae7cf8327fde33c2aab1e61881  aurore-player-0.2.0-x86.apk
