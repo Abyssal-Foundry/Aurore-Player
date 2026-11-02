@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="18 18 72 72">
+  <defs>
+    <clipPath id="r"><rect x="18" y="18" width="72" height="72" rx="16" ry="16"/></clipPath>
+    <linearGradient id="top" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="108" y2="60">
+      <stop offset="0" stop-color="#83B200" stop-opacity="0.125"/><stop offset="1" stop-color="#FF1A00" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="band" gradientUnits="userSpaceOnUse" x1="0" y1="50" x2="108" y2="30">
+      <stop offset="0" stop-color="#FF195D"/><stop offset="0.5" stop-color="#FF6A1A"/><stop offset="1" stop-color="#FFB800"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect x="0" y="0" width="108" height="108" fill="#EFEFDF"/>
+    <path fill="#000" fill-opacity="0.25" d="M25,30h1v1h-1z M70,20h1v1h-1z M90,50h1v1h-1z M40,80h1v1h-1z M15,65h1v1h-1z M80,85h1v1h-1z"/>
+    <path fill="#F5F1E3" d="M0,0h108v108z"/>
+    <path fill="#2A1A40" fill-opacity="0.5" d="M25,25h2v2h-2z M80,30h1.5v1.5h-1.5z M60,15h1v1h-1z M20,60h1.5v1.5h-1.5z M85,70h2v2h-2z"/>
+    <path fill="url(#top)" d="M-10,60 C20,40 40,30 70,45 C90,55 110,45 120,40 L120,0 L-10,0 Z"/>
+    <path fill="url(#band)" d="M-10,50 C30,20 60,70 120,30 L120,45 C60,85 30,35 -10,65 Z"/>
+    <path fill="#E5DFCA" d="M54,45 L15,108 H93 Z"/>
+    <path fill="#1A1030" d="M54,45 L42,65 L50,68 L56,62 L63,68 L66,65 Z"/>
+  </g>
+</svg>

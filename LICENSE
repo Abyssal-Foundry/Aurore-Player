@@ -1,0 +1,24 @@
+Aurore Player — License
+Copyright (c) 2026 Abyssal Foundry. All rights reserved.
+
+Aurore Player is distributed free of charge as closed-source software.
+
+You MAY:
+  - download, install and use the app on any number of devices for personal use;
+  - share the link to this repository.
+
+You MAY NOT, without written permission:
+  - redistribute the app files (APK) on other websites, stores or repositories;
+  - modify, decompile, reverse engineer or create derivative works of the app,
+    except where applicable law expressly allows it;
+  - sell the app or use it for commercial purposes.
+
+The app is provided "AS IS", without warranty of any kind. In no event shall the authors
+be liable for any damages arising from the use of the app.
+
+Users are solely responsible for the content they access or download with the app and
+for respecting copyright and the terms of use of the services involved.
+
+The app includes third-party components distributed under their own licenses
+(for example: AndroidX, Material Components, Glide, OkHttp, NewPipe Extractor,
+youtubedl-android and FFmpeg). Those licenses continue to apply to those components.
