@@ -7,7 +7,7 @@
 A music player for Android and PC with synced lyrics, translation and online search.
 
 **[Download for Android](../../releases/latest)** · Android 8.0+<br>
-**[Download for PC](../../releases/desktop-v0.2.1)** · Linux (AppImage) and Windows
+**[Download for PC](../../releases/latest)** · Linux (AppImage) and Windows
 
 <img src="screenshots/home.jpg" width="200" alt="Home">&nbsp;
 <img src="screenshots/player.jpg" width="200" alt="Now playing">&nbsp;
@@ -53,7 +53,7 @@ To update, install the new version over the old one. Your music and playlists st
 
 ## Install on PC
 
-Open the [PC releases](../../releases?q=desktop-v) and download:
+Open the [latest release](../../releases/latest) and download:
 
 - **Linux:** `aurore-player-desktop-X.Y.Z-linux-x86_64.AppImage`. Make it executable
   (`chmod +x aurore-player-desktop-*.AppImage`, or Properties → Allow executing) and open it.
