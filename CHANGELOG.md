@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.1
+## 0.2.2
 
 Android and PC now ship together in one release.
 
@@ -9,6 +9,9 @@ Android and PC now ship together in one release.
 ### PC
 
 - Import YouTube Music playlists from the Online page or the button next to Playlists (long playlists come in full).
+
+## Desktop 0.2.1
+
 - System tray icon: click to open; menu with play/pause, next, previous, mini player and quit.
 - Minimize (main window or mini player) hides to the tray.
 - Only one copy of the app runs: opening it again brings back the open one.
