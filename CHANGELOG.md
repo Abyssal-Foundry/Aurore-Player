@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.2.5
+
+### English
+
+- "Always search online" now also fills the Artists, Albums and Playlists tabs with YouTube Music results. Artist, album and playlist pages open with their songs ready to play.
+- PC: with "Always search online" on, the separate Online page merges into the search.
+- PC: reorganized settings screen.
+- Android: the spectrum now reacts to the music on every phone. It's computed from the song itself, because Android's audio capture is silent on many phones. With music playing, the shape follows the sound instead of flowing like a wave, the same as on PC.
+- Android: online album tracks show their length.
+
+### Português
+
+- "Sempre buscar online" agora também preenche as abas Artistas, Álbuns e Playlists com resultados do YouTube Music. As páginas de artista, álbum e playlist abrem com as músicas prontas para tocar.
+- PC: com "Sempre buscar online" ligado, a página Online separada passa a fazer parte da busca.
+- PC: tela de configurações reorganizada.
+- Android: o spectrum agora reage à música em qualquer celular. Ele é calculado a partir da própria música, porque a captura de áudio do Android fica muda em muitos aparelhos. Com música tocando, o formato acompanha o som em vez de correr como uma onda, igual ao PC.
+- Android: as faixas de álbuns online mostram a duração.
+
 ## 0.2.4
 
 ### English
