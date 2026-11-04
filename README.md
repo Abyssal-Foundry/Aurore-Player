@@ -25,7 +25,7 @@ A music player for Android and PC with synced lyrics, translation and online sea
 - Synced lyrics that follow the song, translated into your language
 - Colors taken from the artwork, 15 visualizer styles and swipe gestures in the player
 - Up next queue, sleep timer and crossfade
-- Search your library, or search and download music online
+- Search your library, or search music online to play right away or download
 - English, Portuguese, Spanish, French, Italian and Russian
 
 ## Aurore Player for PC

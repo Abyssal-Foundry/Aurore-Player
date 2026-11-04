@@ -1,5 +1,41 @@
 # Changelog
 
+## 0.2.4
+
+### English
+
+- New setting on Android (GitHub version) and PC: "Always search online". The search also shows YouTube Music songs as you type, and they play with one tap.
+- Android: online songs start in about 3 seconds. The song you tap plays first, and the next results are queued so Next keeps going. Songs played online aren't added to your library.
+- Android: the cover shows a play icon on online results, a spinner while a song loads and bars while it plays. The download button stays separate.
+- Android: the spectrum styles are drawn like the PC app. The wave is smooth, flows sideways and follows the sound.
+- Android: the theme takes its colors from the online song's cover.
+- PC: the spectrum styles are back to normal, with the progress bar and knob under the styles that don't show progress.
+- PC: online songs without a known length now show their real duration and progress.
+
+### Português
+
+- Nova opção no Android (versão do GitHub) e no PC: "Sempre buscar online". A busca também mostra músicas do YouTube Music enquanto você digita, e elas tocam com um toque.
+- Android: músicas online começam em cerca de 3 segundos. A música tocada vai primeiro, e as próximas da busca entram na fila, então o "próxima" continua funcionando. Músicas tocadas online não entram na biblioteca.
+- Android: a capa mostra um ícone de play nos resultados online, um indicador enquanto carrega e barrinhas enquanto toca. O botão de download continua separado.
+- Android: os estilos de spectrum são desenhados igual ao app de PC. A onda é suave, corre para o lado e acompanha o som.
+- Android: o tema pega as cores da capa da música online.
+- PC: os estilos de spectrum voltaram ao normal, com a barra de progresso e o botão de arrastar nos estilos que não são de progresso.
+- PC: músicas online sem duração conhecida agora mostram a duração e o progresso reais.
+
+## Desktop 0.2.3
+
+### English
+
+- All spectrum styles now use the current theme color and highlight the played portion.
+- The mini player has extra room so its controls and spectrum are not clipped.
+- Automatic updates retry periodically, report installation errors, and show localized release notes.
+
+### Português
+
+- Todos os estilos de espectro agora usam a cor atual do tema e destacam o trecho já tocado.
+- O mini player ganhou um pouco mais de espaço para não cortar os controles nem o espectro.
+- A atualização automática tenta novamente periodicamente, informa erros de instalação e mostra as novidades no idioma escolhido.
+
 ## 0.2.2
 
 Android and PC now ship together in one release.
